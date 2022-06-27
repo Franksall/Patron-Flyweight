@@ -5,7 +5,7 @@
             <th><img src="https://github.com/rescobedoulasalle/git_github/blob/main/ulasalle.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></th>
             <th>
                 <span style="font-weight:bold;">UNIVERSIDAD LA SALLE</span><br />
-                <span style="font-weight:bold;">FACULTAD DE INGENIERÍAS</span><br />
+                <span style="font-weight:bold;">INGENIERIA DE SOFTWARE</span><br />
                 <span style="font-weight:bold;">DEPARTAMENTO DE INGENIERÍA Y MATEMÁTICAS</span><br />
                 <span style="font-weight:bold;">CARRERA PROFESIONAL DE INGENIERÍA DE SOFTWARE</span>
             </th>            
