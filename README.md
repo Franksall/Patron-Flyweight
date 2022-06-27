@@ -31,7 +31,7 @@ Este proyecto esta divido en en 4 partes. Donde tenemos 4 carpetas creadas
 En cada una de estas tendremos las diferentes clases:
 
 ## Clase principal
-
+La clase principal es donde vamos a llamar a todas las clases, practicamente se utiliza tambien para poder generar un random acerca de las variables que se van insertando. 
 <h1 align="center">
   <a href="two"><img src= "https://i.postimg.cc/BvYVYCTn/Captura-de-pantalla-2022-06-27-091108.png" width="600"/></a>
 </h1>
@@ -39,13 +39,14 @@ En cada una de estas tendremos las diferentes clases:
 
 
 ## Clase Empleado
+La clase empleado es una interfz donde añadimos los metodos que vamos a utilizar.
 <h1 align="center">
   <a href="two"><img src= "https://i.postimg.cc/MTJdrrcx/Captura-de-pantalla-2022-06-27-092006.png" width="600"/></a>
 </h1>
 
 
 ## Clase FactoryEmpleado
-
+En FactoryEmpleado tenemos los tipos de empleos que se vana asignando dependiendo del random que se obtenga.
 <h1 align="center">
   <a href="two"><img src= "https://i.postimg.cc/QCQtJC2h/Captura-de-pantalla-2022-06-27-092314.png" width="600"/></a>
 </h1>
