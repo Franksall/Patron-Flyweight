@@ -35,3 +35,36 @@ En cada una de estas tendremos las diferentes clases:
 <h1 align="center">
   <a href="two"><img src= "https://i.postimg.cc/BvYVYCTn/Captura-de-pantalla-2022-06-27-091108.png" width="600"/></a>
 </h1>
+
+
+
+## Clase Empleado
+<h1 align="center">
+  <a href="two"><img src= "https://i.postimg.cc/MTJdrrcx/Captura-de-pantalla-2022-06-27-092006.png" width="600"/></a>
+</h1>
+
+
+## Clase FactoryEmpleado
+
+<h1 align="center">
+  <a href="two"><img src= "https://i.postimg.cc/QCQtJC2h/Captura-de-pantalla-2022-06-27-092314.png" width="600"/></a>
+</h1>
+
+
+## Clase Desarrollador
+
+<h1 align="center">
+  <a href="two"><img src= "https://i.postimg.cc/j5Vt3KQ5/Captura-de-pantalla-2022-06-27-092409.png" width="600"/></a>
+</h1>
+
+## Clase Tester
+<h1 align="center">
+  <a href="two"><img src= "https://i.postimg.cc/52TVj1r3/Captura-de-pantalla-2022-06-27-092446.png" width="600"/></a>
+</h1>
+
+
+## Clase Director
+
+<h1 align="center">
+  <a href="two"><img src= "https://i.postimg.cc/YqycyMtH/Captura-de-pantalla-2022-06-27-092522.png" width="600"/></a>
+</h1>
