@@ -115,7 +115,7 @@ Las clases van a estar divididas en 4. Donde se vera cada parte de la implementa
   <a href="two"><img src= "https://i.postimg.cc/B6HR2zzq/Captura-de-pantalla-2022-07-07-233632.png" width="600"/></a>
 </h1>
 - Fuente: (Blancarte, O.) Ilustración 94: Diagrama de clases del proyecto Flyweight.
-# Creacion del 2do Proyecto
+
 ## Creacion de proyecto
 Este proyecto esta divido en en 4 partes. Donde tenemos 4 carpetas creadas
 
