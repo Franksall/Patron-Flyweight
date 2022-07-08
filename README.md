@@ -231,3 +231,6 @@ https://drive.google.com/drive/folders/1S5wlaQm66TdT_QAa0zISRGw_tS5ATxqP?usp=sha
 
 
 https://github.com/Franksall/Patron-Flyweight
+
+
+https://www.youtube.com/watch?v=kdrPz0_pKKI
