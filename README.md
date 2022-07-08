@@ -123,9 +123,6 @@ Este proyecto esta divido en en 4 partes. Donde tenemos 4 carpetas creadas
 
 En cada una de estas tendremos las diferentes clases:
 
-<h1 align="center">
-  <a href="two"><img src= "https://i.postimg.cc/wvFTbZWs/Captura-de-pantalla-2022-06-27-091503.png" width="600"/></a>
-</h1>
 
 
 
